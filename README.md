@@ -1,5 +1,7 @@
 ## Create a simple custom annotation
 
+Use Baeldung's [Creating a Custom Annotation in Java](https://www.baeldung.com/java-custom-annotation) as a guide
+
 1. Create 3 custom annotations
    * `@JsonSerializable` - Indicates that class is serializable to json
    * `@JsonElement` - Indicates that the field is to be serialized
